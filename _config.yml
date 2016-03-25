@@ -1,0 +1,28 @@
+name: James Koppel Coaching
+favicon: null
+layout_spectrum: 0.618321577552706
+typography_spectrum: 0.2747028584126383
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8077397183515131
+  lightness: 0.6143847161438316
+  saturation: 0.49150412040762603
+  rhythmicContrast: 0.9294409158173949
+purpose: []
